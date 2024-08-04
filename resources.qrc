@@ -1,0 +1,68 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- Clubs -->
+        <file alias="cardFronts/clubs_1.svg">images/cardFronts/clubs_1.svg</file>
+        <file alias="cardFronts/clubs_2.svg">images/cardFronts/clubs_2.svg</file>
+        <file alias="cardFronts/clubs_3.svg">images/cardFronts/clubs_3.svg</file>
+        <file alias="cardFronts/clubs_4.svg">images/cardFronts/clubs_4.svg</file>
+        <file alias="cardFronts/clubs_5.svg">images/cardFronts/clubs_5.svg</file>
+        <file alias="cardFronts/clubs_6.svg">images/cardFronts/clubs_6.svg</file>
+        <file alias="cardFronts/clubs_7.svg">images/cardFronts/clubs_7.svg</file>
+        <file alias="cardFronts/clubs_8.svg">images/cardFronts/clubs_8.svg</file>
+        <file alias="cardFronts/clubs_9.svg">images/cardFronts/clubs_9.svg</file>
+        <file alias="cardFronts/clubs_10.svg">images/cardFronts/clubs_10.svg</file>
+        <file alias="cardFronts/clubs_11.svg">images/cardFronts/clubs_11.svg</file>
+        <file alias="cardFronts/clubs_12.svg">images/cardFronts/clubs_12.svg</file>
+        <file alias="cardFronts/clubs_13.svg">images/cardFronts/clubs_13.svg</file>
+
+        <!-- Diamonds -->
+        <file alias="cardFronts/diamonds_1.svg">images/cardFronts/diamonds_1.svg</file>
+        <file alias="cardFronts/diamonds_2.svg">images/cardFronts/diamonds_2.svg</file>
+        <file alias="cardFronts/diamonds_3.svg">images/cardFronts/diamonds_3.svg</file>
+        <file alias="cardFronts/diamonds_4.svg">images/cardFronts/diamonds_4.svg</file>
+        <file alias="cardFronts/diamonds_5.svg">images/cardFronts/diamonds_5.svg</file>
+        <file alias="cardFronts/diamonds_6.svg">images/cardFronts/diamonds_6.svg</file>
+        <file alias="cardFronts/diamonds_7.svg">images/cardFronts/diamonds_7.svg</file>
+        <file alias="cardFronts/diamonds_8.svg">images/cardFronts/diamonds_8.svg</file>
+        <file alias="cardFronts/diamonds_9.svg">images/cardFronts/diamonds_9.svg</file>
+        <file alias="cardFronts/diamonds_10.svg">images/cardFronts/diamonds_10.svg</file>
+        <file alias="cardFronts/diamonds_11.svg">images/cardFronts/diamonds_11.svg</file>
+        <file alias="cardFronts/diamonds_12.svg">images/cardFronts/diamonds_12.svg</file>
+        <file alias="cardFronts/diamonds_13.svg">images/cardFronts/diamonds_13.svg</file>
+
+        <!-- Hearts -->
+        <file alias="cardFronts/hearts_1.svg">images/cardFronts/hearts_1.svg</file>
+        <file alias="cardFronts/hearts_2.svg">images/cardFronts/hearts_2.svg</file>
+        <file alias="cardFronts/hearts_3.svg">images/cardFronts/hearts_3.svg</file>
+        <file alias="cardFronts/hearts_4.svg">images/cardFronts/hearts_4.svg</file>
+        <file alias="cardFronts/hearts_5.svg">images/cardFronts/hearts_5.svg</file>
+        <file alias="cardFronts/hearts_6.svg">images/cardFronts/hearts_6.svg</file>
+        <file alias="cardFronts/hearts_7.svg">images/cardFronts/hearts_7.svg</file>
+        <file alias="cardFronts/hearts_8.svg">images/cardFronts/hearts_8.svg</file>
+        <file alias="cardFronts/hearts_9.svg">images/cardFronts/hearts_9.svg</file>
+        <file alias="cardFronts/hearts_10.svg">images/cardFronts/hearts_10.svg</file>
+        <file alias="cardFronts/hearts_11.svg">images/cardFronts/hearts_11.svg</file>
+        <file alias="cardFronts/hearts_12.svg">images/cardFronts/hearts_12.svg</file>
+        <file alias="cardFronts/hearts_13.svg">images/cardFronts/hearts_13.svg</file>
+
+        <!-- Spades -->
+        <file alias="cardFronts/spades_1.svg">images/cardFronts/spades_1.svg</file>
+        <file alias="cardFronts/spades_2.svg">images/cardFronts/spades_2.svg</file>
+        <file alias="cardFronts/spades_3.svg">images/cardFronts/spades_3.svg</file>
+        <file alias="cardFronts/spades_4.svg">images/cardFronts/spades_4.svg</file>
+        <file alias="cardFronts/spades_5.svg">images/cardFronts/spades_5.svg</file>
+        <file alias="cardFronts/spades_6.svg">images/cardFronts/spades_6.svg</file>
+        <file alias="cardFronts/spades_7.svg">images/cardFronts/spades_7.svg</file>
+        <file alias="cardFronts/spades_8.svg">images/cardFronts/spades_8.svg</file>
+        <file alias="cardFronts/spades_9.svg">images/cardFronts/spades_9.svg</file>
+        <file alias="cardFronts/spades_10.svg">images/cardFronts/spades_10.svg</file>
+        <file alias="cardFronts/spades_11.svg">images/cardFronts/spades_11.svg</file>
+        <file alias="cardFronts/spades_12.svg">images/cardFronts/spades_12.svg</file>
+        <file alias="cardFronts/spades_13.svg">images/cardFronts/spades_13.svg</file>
+
+        <file alias="cardBacks/frog.svg">images/cardBacks/frog.svg</file>
+        <file alias="cardBacks/astronaut.svg">images/cardBacks/astronaut.svg</file>
+        <file alias="cardBacks/blue.svg">images/cardBacks/blue.svg</file>
+    </qresource>
+</RCC>
