@@ -1,0 +1,5 @@
+/home/karol/projekty/not-finished-pasjans-game/build/CMakeFiles/pasjns.dir
+/home/karol/projekty/not-finished-pasjans-game/build/CMakeFiles/edit_cache.dir
+/home/karol/projekty/not-finished-pasjans-game/build/CMakeFiles/rebuild_cache.dir
+/home/karol/projekty/not-finished-pasjans-game/build/CMakeFiles/pasjns_autogen_timestamp_deps.dir
+/home/karol/projekty/not-finished-pasjans-game/build/CMakeFiles/pasjns_autogen.dir

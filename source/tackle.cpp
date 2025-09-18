@@ -12,6 +12,7 @@ Tackle::Tackle(Board* b1) {
 }
 
 void Tackle::generate(Board* b1) {
+    qDebug() << "test";
     std::vector<int> colors;
     std::vector<int> numbers;
 

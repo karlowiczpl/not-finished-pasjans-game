@@ -14,7 +14,7 @@ int main(int argc, char* argv[])
     QApplication a(argc, argv);
 
     Singleton& singleton = Singleton::getInstance();
-    static Board b1;
+    Board b1;
     Tackle t1(&b1);
     Tackle::show();
 

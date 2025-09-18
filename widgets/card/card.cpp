@@ -85,16 +85,13 @@ void Card::moveCard(int oldPositionX, int newPositionX, bool onStack)
         }
     }
 }
-void Card::checkForWin()
+bool Card::checkForWin()
 {
   Singleton& singleton = Singleton::getInstance();
   for(int i = 0; i < 7; i++)
   {
-    for(int j = 0; j < singleton.cards[i]->size(); j++)
-    {
-
-    }
   }
+    return true;
 }
 void Card::setStack(int number)
 {

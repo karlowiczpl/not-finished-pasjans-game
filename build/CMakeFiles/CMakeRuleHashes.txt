@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+92ddd647aa7542dc4d7cb48c686eaaea CMakeFiles/pasjns_autogen
+ef08d0066bb17420b06de51f68bb3bc7 pasjns_autogen/EWIEGA46WW/qrc_resources.cpp
+41ed7fe59fa099fe82aefa3ffff4c83a pasjns_autogen/timestamp
